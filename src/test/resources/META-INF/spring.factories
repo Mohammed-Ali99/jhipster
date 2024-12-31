@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.spring.\
+    websocketapp.config.SqlTestContainersSpringContextCustomizerFactory
